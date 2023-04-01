@@ -1,0 +1,11 @@
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\bin\Debug\MatchingGame_CollinStafford.exe.config
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\bin\Debug\MatchingGame_CollinStafford.exe
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\bin\Debug\MatchingGame_CollinStafford.pdb
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.csproj.AssemblyReference.cache
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.Form1.resources
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.Properties.Resources.resources
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.csproj.GenerateResource.cache
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.csproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.exe
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.pdb
+C:\Users\Collin\source\repos\MatchingGame_CollinStafford\MatchingGame_CollinStafford\obj\Debug\MatchingGame_CollinStafford.csproj.SuggestedBindingRedirects.cache
